@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741437761899",
+    "project_id": "whereandwhentogo-2023",
+    "storage_bucket": "whereandwhentogo-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741437761899:android:b5475a5c11c4f6467d442e",
+        "android_client_info": {
+          "package_name": "com.gharieb.whereandwhentogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741437761899-p04phub90ij0vejupijqn7l5l72vkeqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gharieb.whereandwhentogo",
+            "certificate_hash": "b76718d8d2b6410c43aa9c909b32b8deb415f6a6"
+          }
+        },
+        {
+          "client_id": "741437761899-ersv9iq7fr1r1bo7u2ts4i5pi3rds9k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvd202EgXGxTMZNjvyJwjAgyKVo581csk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741437761899-ersv9iq7fr1r1bo7u2ts4i5pi3rds9k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
