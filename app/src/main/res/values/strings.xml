@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">WhereAndWhenToGo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_text">Enter to your personal profile.com and follow.</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="user_name">Username</string>
+    <string name="client_id">741437761899-crlm71s0onf1kcberobmjt9gmr9i1sv5.apps.googleusercontent.com</string>
+    <string name="connect_using">_______ Or connect using _______</string>
+    <string name="where_and_when_to_travel">Where and When to Travel?</string>
+    <string name="body_app_text">The Application that lets you know where and when to go holiday.</string>
+    <string name="find_a_destination">Find a destination</string>
+    <string name="for_your_next_holiday">for your next holiday</string>
 </resources>
