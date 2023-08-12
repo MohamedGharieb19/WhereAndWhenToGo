@@ -21,4 +21,5 @@ The Application that lets you know where and when to go holiday.
 - Build and run the application on an Android emulator or a physical device.
 - Feel free to explore the code. Happy coding!
 
-[![Video Thumbnail](https://clipchamp.com/watch/Q83Dbb2hyvD)
+[![Video Thumbnail](https://clipchamp.com/watch/Q83Dbb2hyvD)](https://clipchamp.com/watch/Q83Dbb2hyvD)
+
